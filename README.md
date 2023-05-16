@@ -25,7 +25,12 @@ Running Process.
 
 Results:
 ![model accuracy](https://github.com/preethamveerepalli/Final_project/assets/59497185/216bd90f-ab0e-48ce-bf7e-64affbe6d312)
-![model loss](https://github.com/preethamveerepalli/Final_project/assets/59497185/dcfbe52e-9531-4fd9-8732-181bbcafd82a)
+ CNN RESULTS
+ 
+ 
+![Resnet](https://github.com/preethamveerepalli/Final_project/assets/59497185/0cae3d2b-dda9-4c58-a3c4-66878749f309)
+
+ResNet.
 
 
 
